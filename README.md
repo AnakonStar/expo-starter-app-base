@@ -1,6 +1,6 @@
 # Expo App Starter Kit
 
-To get started, just download the repository, and run ```npm install``` to install all the necessary dependencies.
+To get started, just download the repository or open in [Expo Snack](https://snack.expo.dev/@enzo.llsant1/react-native-apps-base), and run ```npm install``` to install all the necessary dependencies.
 (NOTE: make sure to have NodeJS, installed in your system, otherwise, it won't work)
 
 After running the ```npm install``` command, you can start modifying the docs, here are some of the changes you can make to make this base fully your own:
@@ -125,4 +125,4 @@ With all that set up, you can start modifying your application, just create all 
 
 Hope you find this helpful.
 
-***FINAL NOTE: All this explanation and code, was created by AnakonStar (self), so if you can not copy it as your own, I will be very grateful, just use it***
+***FINAL NOTE: All this explanation and code, was created by AnakonStar (self), so if you can not copy it as your own 😥, I will be very grateful, just use it***
